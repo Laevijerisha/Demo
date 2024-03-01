@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZmULpgLiuYhheMk37P1Q10a37tMaKdfCDcPu4/YrGZNsHzGULHLwJaKVAm2I/tLBFbpeZ+6o8P7c0DMK3v6Zvg==",
+  "success": true,
+  "projectFilePath": "D:\\Devops\\CiCd\\WebApiWithController\\WebApiWithController.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laevi.antony\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\laevi.antony\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\laevi.antony\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
+    "C:\\Users\\laevi.antony\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\laevi.antony\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\laevi.antony\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\laevi.antony\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
